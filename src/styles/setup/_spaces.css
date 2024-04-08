@@ -1,0 +1,16 @@
+:root {
+    --space-flexible: 100px;
+    --space-safe: 24px;
+
+    --space-xs: 8px;
+    --space-s: 18px;
+    --space-sm: 24px;
+    --space-m: 36px;
+    --space-ml: 48px;
+    --space-l: 64px;
+    --space-xl: 81px;
+    --space-2xl: 100px;
+    --space-3xl: 120px;
+    --space-4xl: 162px;
+    --space-5xl: 180px;
+}

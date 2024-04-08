@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Robot-Regular;
+    src: url('../../assets/fonts/Roboto-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('../../assets/fonts/Roboto-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('../../assets/fonts/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+:root {
+    --font-inter-regular: 'Robot-Regular', 'sans-serif';
+    --font-inter-medium: 'Roboto-Medium', 'sans-serif';
+    --font-inter-bold: 'Roboto-Bold', 'sans-serif';
+
+    /* Font size */
+    --font-size-h1-pc: 78px;
+    --font-size-h2-pc-tablet: 48px;
+    --font-size-h3-pc-tablet-mobile: 24px;
+    --font-size-h1-tablet: 64px;
+    --font-size-h1-mobile: 32px;
+    --font-size-p1-pc-tablet-mobile: 20px;
+    --font-size-p2-pc-tablet: 18px;
+    --font-size-p3-mobile: 16px;
+    --font-size-h3-mobile: 20px;
+
+    /* Line height */
+    --line-height-standart: 145%;
+    --line-height-auto: auto;
+
+    /* Letter Spacing */
+    --letter-spacing-xs: 1px;
+    --letter-spacing-s: 2px;
+    --letter-spacing-m: 3px;
+    --letter-spacing-xm: 4px;
+    --letter-spacing-l: 5px;
+    --letter-spacing-xl: 6px;
+    --letter-spacing-2xl: 7px;
+    --letter-spacing-3xl: 8px;
+    --letter-spacing-4xl: 9px;
+    --letter-spacing-5xl: 10px;
+}
