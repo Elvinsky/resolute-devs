@@ -1,7 +1,8 @@
 :root {
-    --white-main: #ffffff;
-    --black-main: #1a1a1a;
-    --grey-main: #d1d1d1;
-    --accent-main: #9C73F2;
-    --accent-main-transparent: rgba(156, 115, 242, 0.5);
+    --color-white-main: #ffffff;
+    --color-black-main: #1a1a1a;
+    --color-grey-main: #d1d1d1;
+    --color-grey-secondary: #2c2c2c;
+    --color-accent-main: #9C73F2;
+    --color-accent-main-transparent: rgba(156, 115, 242, 0.5);
 }
